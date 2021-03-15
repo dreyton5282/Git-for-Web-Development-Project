@@ -41,14 +41,27 @@ Here is the link to the codepen part of the project: https://codepen.io/dreyton5
 
 
 Answers to Questions:
+
 1. - the act of spliting up and comprising your code in a way to explain it to others and yourself in a clear and organized way.
 
 2. - to serve as the very foundation of your webpage, such as making text and pictures appear, and organizing them to make the webpage look presentable.
 
-3. - a way to provide info on HTML elements, and also to help change them. We can put them within any HTML tags.
+3. - a way to provide info on HTML elements, and also to help change them. We can put them within any HTML tag.
 
 4. - to designate an title that explains what your webpage is about and is bigger than all the other text on the page, You should just use h1 once.
 
 5. - img requires src, and a requires href.
 
-6. - 
+6. - items like the <title>. links to css and other custom stylings, and metadata.
+
+7. - The id attribute points to an id selector in your css and it's the most specific attribute, besides an in-line selector, and you can only use them once per webpage.
+
+8. - any of them.
+
+9. - Once.
+
+10. - an attribute, less specific than a id, that helps point to a class selector in your css.
+
+11. - any of them.
+
+12. - as many as you want.
