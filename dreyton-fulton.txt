@@ -87,4 +87,10 @@ Answers to Questions:
 22. - this refers to the relationship of html elements (parent) that have other elements nested inside of them (child). 
 this is useful to style multiple html child elements by styling the parent, or to just style a certain number of children at once, while not affecting the parent.
 
-23. - 
+23. - type ".sidebar a {}" in your css.
+
+24. - a class that defines a special state of an HTML element.
+
+25. - typing "line-height: *insert measurement here* ;" in css.
+
+26. - typing "letter-spacing: *insert measurement here* ;" in css.
