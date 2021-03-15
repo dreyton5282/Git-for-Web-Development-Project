@@ -106,3 +106,16 @@ this is useful to style multiple html child elements by styling the parent, or t
 31. - type the command 'pwd'.
 
 32. - type the command 'ls'.
+
+33. - type the command 'rm'. you have to be careful because once you remove that file with the rm command, then that file is gone forever.
+
+34. - in order to keep track of your changes and to help make sure you and your team members are all working on the same version.
+
+35. - every 15-20 minutes or so. and every time you make big changes.
+
+36. - git push origin -u *and then your branch name*.
+
+37. - so you fork a project file to make your own copy of that file within the cloud. you clone that from the cloud onto your local computer.
+you move file directories into the main branch file and branch off, in order to create your own branch, so you can make adjustments without directly editing the main branch, the main project file. 
+you make and then save all your changes with git add and git commit and push them up back into the cloud and when you are finished pushing all your work,
+you submit a pull request to merge your branch directly into the main branch.
