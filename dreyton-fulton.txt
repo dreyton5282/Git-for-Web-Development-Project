@@ -94,3 +94,15 @@ this is useful to style multiple html child elements by styling the parent, or t
 25. - typing "line-height: *insert measurement here* ;" in css.
 
 26. - typing "letter-spacing: *insert measurement here* ;" in css.
+
+27. - text-transform: uppercase. text-transform: lowercase. text-transform: capitalize.
+
+28. - div {border: 1px dotted black;}
+
+29. - use the universal (*) selector in css. 
+
+30. - use /* to start a comment and end it with */.
+
+31. - type the command 'pwd'.
+
+32. - type the command 'ls'.
