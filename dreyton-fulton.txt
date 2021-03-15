@@ -65,3 +65,15 @@ Answers to Questions:
 11. - any of them.
 
 12. - as many as you want.
+
+13. - using the anchor tag will contain the url to the tab, thanks to the href attribute.
+
+14. - it is used for when an image can't display on a webpage, for any number of reasons, and text will show up in its place, usually to state and explain why an image isn't appearing.
+
+15. - create an id selector in your css. you also need to type a '#' with the id selector, in order to properly reference the id attribute in your HTML.
+
+16. - a section is semantic and therefore explains your HTML, where a div is non-semantic and therefore doesn't explain your html.
+
+17. - to style your webpage and make it appear aesthetically-pleasing.
+
+18. - 
