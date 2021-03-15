@@ -54,7 +54,7 @@ Answers to Questions:
 
 6. - items like the <title>. links to css and other custom stylings, and metadata.
 
-7. - The id attribute points to an id selector in your css and it's the most specific attribute, besides an in-line selector, and you can only use them once per webpage.
+7. - The id attribute points to an id selector in your css and it's the most specific attribute, besides an in-line selector, and you can only use them on one HTML element per webpage.
 
 8. - any of them.
 
@@ -76,4 +76,15 @@ Answers to Questions:
 
 17. - to style your webpage and make it appear aesthetically-pleasing.
 
-18. - 
+18. - create a css selector to reference your HTML elements, so you can style them.
+
+19. - one class attribute can be used by all of your HTML elements, and an id attribute can only be used by one HTML element on your webpage.
+
+20. - create a class selector that references your desired class attribute.
+
+21. - type " .human {} " within your css, as well as the desired edits within your curly brackets.
+
+22. - this refers to the relationship of html elements (parent) that have other elements nested inside of them (child). 
+this is useful to style multiple html child elements by styling the parent, or to just style a certain number of children at once, while not affecting the parent.
+
+23. - 
