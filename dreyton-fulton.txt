@@ -1,0 +1,121 @@
+Here is the link to the codepen part of the project: https://codepen.io/dreyton5282/pen/QWGYLMQ
+
+
+ 1. What is Semantic HTML? 
+    2. What is HTML used for? 
+    3. What is an attribute and where do we put it? 
+    4. What is the h1 tag used for? How many times should I use it on a page?
+    5. Name two tags that have required attributes
+    6. What do we put in the head of our HTML document? 
+    7. What is an id? 
+    8. What elements can I add an id to? 
+    9. How many times can I use the same id on a page? 
+    10. What is a class? 
+    11. What elements can I add a class to? 
+    12. How many times can I use the same class on a page? 
+    13. How do I get my link to open in a new tab?
+    14. What is the alt attribute in the image tag used for? 
+    15. How do I reference an id?
+    16. What is the difference between a section and a div
+    17. What is CSS used for? 
+    18. How to we select an element? Example - every h2 on the page
+    19. What is the difference between a class and an id? - Give me an example of when I might use each one
+    20. How do we select classes in CSS?
+    21. How do we select a p element with a single class of “human””?
+    22. What is a parent child selector? When would this be useful? 
+    23. How do you select all links within a div with the class of sidebar?
+    24. What is a pseudo selector?
+    25. What do we use the change the spacing between lines?
+    26. What do we use to change the spacing between letters?
+    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
+    28. How do I add a 1px border around my div that is dotted and black?
+    29. How do I select everything on the page? 
+    30. How do I write a comment in CSS?
+    31. How do I find out what file I am in, when I am using the command line? 
+    32. Using the command line - how do I see a list of files/folders in my current folder?
+    33. How do I remove a file via the command line? Why do I have to be careful with this? 
+    34. Why should I use version control? 
+    35. How often should I commit to github?
+    36. What is the command we would use to push our repo up to github? 
+    37. Walk me through Lambda's git flow.
+
+
+Answers to Questions:
+
+1. - the act of spliting up and comprising your code in a way to explain it to others and yourself in a clear and organized way.
+
+2. - to serve as the very foundation of your webpage, such as making text and pictures appear, and organizing them to make the webpage look presentable.
+
+3. - a way to provide info on HTML elements, and also to help change them. We can put them within any HTML tag.
+
+4. - to designate an title that explains what your webpage is about and is bigger than all the other text on the page, You should just use h1 once.
+
+5. - img requires src, and a requires href.
+
+6. - items like the <title>. links to css and other custom stylings, and metadata.
+
+7. - The id attribute points to an id selector in your css and it's the most specific attribute, besides an in-line selector, and you can only use them on one HTML element per webpage.
+
+8. - any of them.
+
+9. - Once.
+
+10. - an attribute, less specific than a id, that helps point to a class selector in your css.
+
+11. - any of them.
+
+12. - as many as you want.
+
+13. - using the anchor tag will contain the url to the tab, thanks to the href attribute.
+
+14. - it is used for when an image can't display on a webpage, for any number of reasons, and text will show up in its place, usually to state and explain why an image isn't appearing.
+
+15. - create an id selector in your css. you also need to type a '#' with the id selector, in order to properly reference the id attribute in your HTML.
+
+16. - a section is semantic and therefore explains your HTML, where a div is non-semantic and therefore doesn't explain your html.
+
+17. - to style your webpage and make it appear aesthetically-pleasing.
+
+18. - create a css selector to reference your HTML elements, so you can style them.
+
+19. - one class attribute can be used by all of your HTML elements, and an id attribute can only be used by one HTML element on your webpage.
+
+20. - create a class selector that references your desired class attribute.
+
+21. - type " .human {} " within your css, as well as the desired edits within your curly brackets.
+
+22. - this refers to the relationship of html elements (parent) that have other elements nested inside of them (child). 
+this is useful to style multiple html child elements by styling the parent, or to just style a certain number of children at once, while not affecting the parent.
+
+23. - type ".sidebar a {}" in your css.
+
+24. - a class that defines a special state of an HTML element.
+
+25. - typing "line-height: *insert measurement here* ;" in css.
+
+26. - typing "letter-spacing: *insert measurement here* ;" in css.
+
+27. - text-transform: uppercase. text-transform: lowercase. text-transform: capitalize.
+
+28. - div {border: 1px dotted black;}
+
+29. - use the universal (*) selector in css. 
+
+30. - use /* to start a comment and end it with */.
+
+31. - type the command 'pwd'.
+
+32. - type the command 'ls'.
+
+33. - type the command 'rm'. you have to be careful because once you remove that file with the rm command, then that file is gone forever.
+
+34. - in order to keep track of your changes and to help make sure you and your team members are all working on the same version.
+
+35. - every 15-20 minutes or so. and every time you make big changes.
+
+36. - git push origin -u *and then your branch name*.
+
+37. - so you fork a project file to make your own copy of that file within the cloud. you clone that from the cloud onto your local computer.
+you move file directories into the main branch file and branch off, in order to create your own branch, so you can make adjustments without directly editing the main branch, the main project file. 
+you make and then save all your changes with git add and git commit and push them up back into the cloud and when you are finished pushing all your work,
+you submit a pull request to merge your branch directly into the main branch.
